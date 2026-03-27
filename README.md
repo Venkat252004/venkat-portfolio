@@ -106,14 +106,3 @@ Voice Input → Speech-to-Text → NLP Processing → Feature Extraction → GAN
 B.Tech – Artificial Intelligence and Data Science
 
 ---
-
-## 🔗 Connect with Me
-
-* LinkedIn: (Add your link here)
-* GitHub: (Add your profile link)
-
----
-
-## ⭐ If you like this project
-
-Give it a ⭐ on GitHub!
